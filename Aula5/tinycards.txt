@@ -1,0 +1,2 @@
+LINK para tinycards:
+GIT: https://tiny.cards/decks/LCnX9Jcz/comandos-git
